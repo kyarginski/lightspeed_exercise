@@ -1,0 +1,6 @@
+.workspace/
+.idea/
+.DS_Store!
+result.txt
+/bin/generator
+/bin/counter
